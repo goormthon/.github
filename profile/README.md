@@ -46,6 +46,8 @@
 
 **🚀 발표 자료** : [일있수꽝 발표 자료](https://github.com/goormthon/.github/files/12567964/_.pdf)
 
+**📝 노션** : [프로젝트 관리 노션](https://eeeyooon.notion.site/7436eeea62724ae1bbc26bce91980b50?pvs=4)
+
 <br/>
 <br/>
 
