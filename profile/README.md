@@ -17,8 +17,10 @@
 
 ## 시연영상
 
-_하단에 있는 이미지를 클릭하면 영상으로 이동합니다._
+[▶ 시연 영상 보러가기](https://youtu.be/-KSCJo63A3k)
+
 [![시연영상](https://github.com/goormthon/.github/assets/102462534/a4fc1e8d-26ff-4842-b8a2-90cc9e545a6b)](https://youtu.be/-KSCJo63A3k)
+
 
 <br/>
 <br/>
