@@ -40,7 +40,7 @@
 
 **🍊 서비스 브랜딩** : "일 있나요?라는 제주도 방언으로 구직자에겐 "할 수 있는 일이 있나요?"라는 의미와 구인자에겐 "일을 할 수 있나요?라는 중의적 의미
 
-**🏃🏻‍♂️ 프로젝트 구현 기간** : 2023.09.13 ~ 2023.09.15
+**🏃🏻‍♂️ 프로젝트 구현 기간** : 2023.09.05 ~ 2023.09.08
 
 **🖼 디자인 시안** : [일있수꽝 Figma](https://www.figma.com/file/ubkIQ8YzuhOvQ14IuXPDIv/%EA%B7%B8%EB%A6%BC%EC%9E%90%EC%9D%BC%EA%BE%BC_%EB%94%94%EC%9E%90%EC%9D%B8?type=design&mode=design&t=e8ZkXkyoWuosKoTu-0)
 
